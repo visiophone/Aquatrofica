@@ -2,6 +2,7 @@
 AV Interactive Installation made at EMERGENCE Digital Media Science Communication Hackathon (São Miguel, Açores - Arquipélago - Centro de Artes Contemporâneas).
 
 More info: http://visiophone-lab.com/wp/?portfolio=aquatrofica
+
 Project made by: Ana Rodrigues, António Correia, Rita Patarra, Rodrigo Carvalho, Vanessa Melo.
 
 //
